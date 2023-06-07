@@ -1,5 +1,6 @@
 ### Hi there 👋
-### I'M Furla or Giacomo Forlani
+### I'M Furla or Giacomo Forlani 👨‍💻
+<br>
 
 <!--
 **Giacomo-Forlani/Giacomo-Forlani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
